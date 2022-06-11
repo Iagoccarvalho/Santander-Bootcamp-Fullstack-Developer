@@ -1,0 +1,12 @@
+<section/>: Seção genéricac de conteúdo
+<header/>: Cabeçalo da página ou de uma pare da página(section)
+<article/>: Conteúdo relevante de uma página
+<aside/>: Conteúdo relconado ao conteúdo principal da página(barra lateral)
+<footer/>: Rodapé da página
+<h1-h6/>: Títulos
+<p/>: Representa um parágrafo, textos, imagens, códigos e etc.
+<a/>: Interliga vários cocnteúdos na Web, um link (href;target)
+<img/>: Carergar imagens na página(src;alt(descrição))
+<ul/>: Lista sem ordem 
+<ol/>: Lista ordenada
+<li/>: item de uma lista
